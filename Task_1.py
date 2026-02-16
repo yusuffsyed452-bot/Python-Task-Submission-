@@ -1,0 +1,7 @@
+Num1 = input("Enter the first no: ")
+Num2 = input("Enter the second no: ")
+ADD = int(Num1) + int(Num2)
+SUB = int(Num1) - int(Num2)
+Multi = int(Num1) * int(Num2)
+DIV = int(Num1) / int(Num2)
+print("the result is", ADD, SUB, Multi, DIV)
